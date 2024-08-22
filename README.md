@@ -14,7 +14,7 @@
 - **%c**: Character
 - **%s**: String
 - **%p**: Pointer
-- **%d/%i**: Signed integer
+- **%d / %i**: Signed integer
 - **%u**: Unsigned integer
-- **%x/%X**: Hexadecimal (lowercase/uppercase)
+- **%x / %X**: Hexadecimal (lowercase/uppercase)
 - **%%**: Percent sign
