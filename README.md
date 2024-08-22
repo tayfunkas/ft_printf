@@ -6,7 +6,6 @@
 
 - **Variadic Functions**: Handling a variable number of arguments.
 - **String Formatting**: Using format specifiers to manipulate strings.
-- **Memory Management**: Efficiently managing dynamic memory.
 - **Code Organization**: Structuring complex functions effectively.
 
 ## Supported Format Specifiers
